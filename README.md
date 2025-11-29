@@ -1,5 +1,27 @@
 # 💫 About Me:
-3rd year Computer Engineering student at EMSI Marrakech<br><br>Passionate about AI, Data Science and Cloud Computing. Building scalable solutions with AWS/Azure and modern full-stack applications.<br><br>🎯 Goals<br>• Master Machine Learning & Deep Learning<br>• Become AWS Certified Cloud Engineer<br>• Build impactful AI/Data Science portfolio<br>• Internship in AI/DevOps (2026)<br><br>🔥 Currently<br>• ML/DL projects for GitHub portfolio<br>• Learning Terraform & Kubernetes<br>• Preparing AWS Certified Developer Associate<br><br>📍 Based in Marrakech, Morocco • Open to collaborations
+3rd year Computer Engineering student at EMSI Marrakech
+
+Passionate about AI, Data Science and Cloud Computing. Building scalable solutions with AWS/Azure and modern full-stack applications.
+
+🎯 Goals
+
+Master Machine Learning & Deep Learning
+
+Become AWS Certified Cloud Engineer
+
+Build impactful AI/Data Science portfolio
+
+Internship in AI/DevOps (2026)
+
+🔥 Currently
+
+ML/DL projects for GitHub portfolio
+
+Learning Terraform & Kubernetes
+
+Preparing AWS Certified Developer Associate
+
+📍 Based in Marrakech, Morocco - Open to collaborations fait je suis etudiant en 3IIR EN EMSI MARAKECH ENKVER AWS AZURE﻿
 
 
 ## 🌐 Socials:
