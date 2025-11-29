@@ -1,37 +1,27 @@
-<h1 align="center">Hi 👋, I'm Anouar Baoutoul</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+# 💫 About Me:
+3rd year Computer Engineering student at EMSI Marrakech<br><br>Passionate about AI, Data Science and Cloud Computing. Building scalable solutions with AWS/Azure and modern full-stack applications.<br><br>🎯 Goals<br>• Master Machine Learning & Deep Learning<br>• Become AWS Certified Cloud Engineer<br>• Build impactful AI/Data Science portfolio<br>• Internship in AI/DevOps (2026)<br><br>🔥 Currently<br>• ML/DL projects for GitHub portfolio<br>• Learning Terraform & Kubernetes<br>• Preparing AWS Certified Developer Associate<br><br>📍 Based in Marrakech, Morocco • Open to collaborations
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    🎯 GitHub Trophies
-  </a>
-</p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    🐦 Twitter
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anouar-baoutoul-701b5738a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anoir.baoutoul@gmail.com) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/anouar-baoutoul-701b5738a/" target="_blank">
-    💼 LinkedIn
-  </a>
-  <a href="https://www.kaggle.com/anouarbaoutoul" target="_blank">
-    📊 Kaggle
-  </a>
-  <a href="https://discord.gg/995797552945434735" target="_blank">
-    💬 Discord
-  </a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anouar-baoutoul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anouar-baoutoul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anouar-baoutoul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  Arduino • Bash • Bootstrap • C • C++ • CSS3 • Firebase • Git • HTML5 • Java • JavaScript • Linux • Matlab • MySQL • Node.js • Oracle • Pandas • PHP • Python • React • React Native • TypeScript • Unity • Unreal Engine
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anouar-baoutoul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  Top Languages | GitHub Stats | Streak Stats
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anouar-baoutoul&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=anouar-baoutoul&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
