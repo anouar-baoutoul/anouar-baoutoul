@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anouar Baoutoul</h1>
+[<h1 align="center">Hi 👋, I'm Anouar Baoutoul</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anouar-baoutoul&label=Profile%20views&color=0e75b6&style=flat" alt="anouar-baoutoul" /> </p>
@@ -17,3 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anouar-baoutoul&show_icons=true&locale=en&layout=compact" alt="anouar-baoutoul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anouar-baoutoul&show_icons=true&locale=en" alt="anouar-baoutoul" /></p>
+](https://www.perplexity.ai/)
