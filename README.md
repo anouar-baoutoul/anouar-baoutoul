@@ -1,29 +1,37 @@
+<h1 align="center">Hi 👋, I'm Anouar Baoutoul</h1>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
-## 📊 GitHub Stats
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    🎯 GitHub Trophies
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anouar-baoutoul&show_icons=true&locale=en&layout=compact&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=anouar-baoutoul&show_icons=true&locale=en&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anouar-baoutoul&theme=radical)
+<p align="left">
+  <a href="https://twitter.com/" target="_blank">
+    🐦 Twitter
+  </a>
+</p>
 
-## 🌐 Connect with me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anouar-baoutoul-701b5738a/" target="_blank">
+    💼 LinkedIn
+  </a>
+  <a href="https://www.kaggle.com/anouarbaoutoul" target="_blank">
+    📊 Kaggle
+  </a>
+  <a href="https://discord.gg/995797552945434735" target="_blank">
+    💬 Discord
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anouar-baoutoul-701b5738a/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/anouarbaoutoul)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/995797552945434735)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  Arduino • Bash • Bootstrap • C • C++ • CSS3 • Firebase • Git • HTML5 • Java • JavaScript • Linux • Matlab • MySQL • Node.js • Oracle • Pandas • PHP • Python • React • React Native • TypeScript • Unity • Unreal Engine
+</p>
 
-## 🚀 Currently Working On
-
-- Frontend development with React & TypeScript
-- Exploring AI/Data Science applications
-- Building scalable web applications
-- Contributing to open source projects
-
-## 📫 How to reach me
-
-📧 **Email**: anouar.baoutoul@example.com  
-📍 **Location**: Marrakech, Morocco  
-
----
-
-⭐ **Star this repository if you found it useful!**  
-💼 **Looking for collaborators on exciting frontend projects**
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  Top Languages | GitHub Stats | Streak Stats
+</p>
