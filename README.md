@@ -24,12 +24,9 @@ I build scalable solutions and modern full‑stack applications with a focus on 
 ---
 
 ## Tech Stack
-Core: Python · C++ · Java · JavaScript · R  
+Core: Python · C++ · Java · JavaScript 
 Web & Backend: Node.js · Django · Laravel · PHP · HTML · CSS  
-Data & ML: Anaconda · Pandas · nVIDIA (CUDA) · TensorFlow / PyTorch (add if you use them)  
-Cloud & Infra: AWS · Azure · Docker · Kubernetes · Terraform  
 Databases & Tools: PostgreSQL · MySQL · SQLite · Redis · Git · GitHub · GitLab
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
