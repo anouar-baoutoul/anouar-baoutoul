@@ -68,22 +68,13 @@ I enjoy contributing to projects that touch developer experience, ML tooling, an
 - ML reproducibility & pipelines
 - Cloud infra automation (Terraform, IaC)
 - Developer tooling & CI/CD improvements
-
 ---
 
-## Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anouar-baoutoul-701b5738a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anoir.baoutoul@gmail.com)
-
-Please confirm your preferred public contact info (LinkedIn, email, website) — I detected a possibly malformed LinkedIn URL and an email that may contain a typo.
-
----
 
 ## Extras
 - Random dev quote: !  
 - Top contributed repo snapshot: !  
 - Visit count: [!](https://visitcount.itsvg.in)
-
 ---
 
 Thanks for visiting — I'm building things with ML & Cloud. If you'd like, I can:
