@@ -6,13 +6,19 @@
 ---
 
 ## About Me
-I build scalable solutions and modern full‑stack applications with a focus on Machine Learning, Deep Learning, and cloud-native infrastructure (AWS / Azure). Currently studying Computer Engineering (3rd year) at EMSI Marrakech and actively working on ML/DL projects for my GitHub portfolio.
+I build scalable solutions and modern full-stack applications with Laravel, Python, C/C++, React, Java, JavaScript. Currently studying AI Engineer 3IIR (3rd year) at EMSI Marrakech — developing practical AI/Data projects for my GitHub portfolio.
 
-- 🎯 Goals
-  - Master Machine Learning & Deep Learning
-  - Become an AWS Certified Cloud Engineer
-  - Build an impactful AI / Data Science portfolio
-  - Secure an internship in AI / DevOps (2026)
+
+🎯 Goals
+
+Learn and master AI fundamentals
+
+Become AWS Certified Cloud Engineer
+
+Build an impactful tech portfolio (AI/Data)
+
+Secure AI/DevOps internship (2026) 3IIR EMSI
+
 
 - 🔥 Currently
   - Building ML/DL projects for portfolio
@@ -80,3 +86,4 @@ Thanks for visiting — I'm building things with ML & Cloud. If you'd like, I ca
 - add certification badges (when you pass AWS certs),
 - or tighten the tech-badges to just your top 8.
  max amelioration
+Contact: anouar.baoutoul@gmail.com
