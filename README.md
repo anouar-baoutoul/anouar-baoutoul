@@ -78,4 +78,4 @@ Thanks for visiting — I'm building things with ML & Cloud. If you'd like, I ca
 - or tighten the tech-badges to just your top 8.
  max amelioration
 ---
-Contact: anouar.baoutoul@gmail.com
+Contact: anoir.baoutoul@gmail.com
