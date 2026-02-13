@@ -76,15 +76,6 @@ Please confirm your preferred public contact info (LinkedIn, email, website) —
 
 ---
 
-## GitHub Stats
-!  
-!  
-!
-
-!
-
----
-
 ## Extras
 - Random dev quote: !  
 - Top contributed repo snapshot: !  
