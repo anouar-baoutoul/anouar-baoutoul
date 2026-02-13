@@ -50,18 +50,4 @@ Databases & Tools: PostgreSQL · MySQL · SQLite · Redis · Git · GitHub · Gi
 ## Education
 - EMSI Marrakech — Computer Engineering (3rd year), 3IIR
 ---
-
-## Open Source & Contributions
-I enjoy contributing to projects that touch developer experience, ML tooling, and cloud automation. Open to collaborating on:
-- ML reproducibility & pipelines
-- Cloud infra automation (Terraform, IaC)
-- Developer tooling & CI/CD improvements
----
-Thanks for visiting — I'm building things with ML & Cloud. If you'd like, I can:
-- add polished project cards with live links,
-- reorder / translate the README to French,
-- add certification badges (when you pass AWS certs),
-- or tighten the tech-badges to just your top 8.
- max amelioration
----
 Contact: anoir.baoutoul@gmail.com
