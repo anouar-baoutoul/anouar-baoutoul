@@ -46,21 +46,7 @@ Databases & Tools: PostgreSQL · MySQL · SQLite · Redis · Git · GitHub · Gi
 ![MySQL](https://img.shields.io/badge/mysql-%2300000F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-
 ---
-## Projects (showcase)
-I can display polished cards for your top projects. Please provide 3 projects with:
-- repo name
-- one-line description
-- URL
-- main tech used
-
-Example project card (placeholder):
-- Smart-ML-Notebook — A reproducible ML pipeline for image classification using PyTorch.  
-  [https://github.com/anouar-baoutoul/smart-ml-notebook](https://github.com/anouar-baoutoul/smart-ml-notebook) · Tech: Python · PyTorch · Docker · AWS S3
-
----
-
 ## Education
 - EMSI Marrakech — Computer Engineering (3rd year), 3IIR
 ---
