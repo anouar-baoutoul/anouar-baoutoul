@@ -30,7 +30,7 @@ Data & ML: Anaconda · Pandas · nVIDIA (CUDA) · TensorFlow / PyTorch (add if y
 Cloud & Infra: AWS · Azure · Docker · Kubernetes · Terraform  
 Databases & Tools: PostgreSQL · MySQL · SQLite · Redis · Git · GitHub · GitLab
 
-Badges:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2343b07a.svg?style=for-the-badge&logo=c&logoColor=white)
