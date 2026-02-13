@@ -71,18 +71,11 @@ I enjoy contributing to projects that touch developer experience, ML tooling, an
 - Cloud infra automation (Terraform, IaC)
 - Developer tooling & CI/CD improvements
 ---
-
-
-## Extras
-- Random dev quote: !  
-- Top contributed repo snapshot: !  
-- Visit count: [!](https://visitcount.itsvg.in)
----
-
 Thanks for visiting — I'm building things with ML & Cloud. If you'd like, I can:
 - add polished project cards with live links,
 - reorder / translate the README to French,
 - add certification badges (when you pass AWS certs),
 - or tighten the tech-badges to just your top 8.
  max amelioration
+---
 Contact: anouar.baoutoul@gmail.com
