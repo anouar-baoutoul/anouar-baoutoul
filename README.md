@@ -5,7 +5,7 @@
 
 <h1>👋 Welcome to my GitHub Profile!</h1>
 
-<!-- Typing Animation CORRIGÉE -->
+<!-- Typing Animation -->
 <a href="https://github.com/anouar-baoutoul">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Anouar+Baoutoul!;🎓+Étudiant+Ingénieur+%40+EMSI+Marrakech;🤖+AI+%26+Data+Science+Enthusiast;💻+Full-Stack+Developer;☁️+Learning+Cloud+%26+DevOps;🚀+Open+to+PFA+2026+Opportunities!" alt="Typing SVG" />
 </a>
@@ -19,10 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <!-- GMAIL CLIQUABLE - OUVRE VOTRE GMAIL DIRECTEMENT -->
-  <a href="<a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwPxGKwksQTXPgQMsKclhNKWlSQmvJmwQrQwgsKzHtTgzpBCbsMqcQFmcwRrmjhvrJDprJG">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?..."/>
-</a>
+  <a href="mailto:anoir.baoutoul@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -37,7 +34,7 @@
 class AnouarBaoutoul:
     name        = "Anouar Baoutoul"
     school      = "EMSI Marrakech 🎓"
-    degree      = "Ingénierie Informatique & Réseaux "
+    degree      = "Ingénierie Informatique & Réseaux"
     bac         = "Sciences Physiques · Jossour Al Maarifa · 2023"
     emsi_since  = "2023"
     location    = "Marrakech, Morocco 🇲🇦"
@@ -146,7 +143,7 @@ class AnouarBaoutoul:
 
 | 🎓 Diplôme | 🏫 Établissement | 📅 Année |
 |-----------|----------------|---------|
-| Ingénierie Informatique & Réseaux  | EMSI Marrakech | 2023 – 2028 |
+| Ingénierie Informatique & Réseaux | EMSI Marrakech | 2023 – 2028 |
 | Baccalauréat Sciences Physiques | Jossour Al Maarifa · Marrakech | 2023 |
 
 </div>
