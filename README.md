@@ -3,7 +3,7 @@
   <h1>👋 Welcome to my GitHub Profile!</h1>
 
   <p>
-    <a href="[https://github.com/anouar-baoutoul](https://www.linkedin.com/in/anouar-baoutoul-701b5738a/)">
+    <a href="https://github.com/anouar-baoutoul">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%40+EMSI;AI+%26+Data+Science+Enthusiast;Full-Stack+Developer;Building+AI+%26+Cloud+Projects" 
            alt="Typing SVG" />
     </a>
@@ -11,7 +11,7 @@
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=anouar-baoutoul&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="https://www.linkedin.com/in/anouar-baoutoul" target="_blank">
+    <a href="https://www.linkedin.com/in/anouar-baoutoul-701b5738a/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
     <a href="https://github.com/anouar-baoutoul" target="_blank">
@@ -115,7 +115,7 @@ Computer Engineering Student | AI & Data Science Enthusiast | EMSI Marrakech
 <a href="https://www.github.com/anouar-baoutoul" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/anouar-baoutoul" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/anouar-baoutoul-701b5738a/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
 </a>
 </p>
