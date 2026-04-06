@@ -3,7 +3,7 @@
   <h1>👋 Welcome to my GitHub Profile!</h1>
 
   <p>
-    <a href="https://github.com/anouar-baoutoul">
+    <a href="[https://github.com/anouar-baoutoul](https://www.linkedin.com/in/anouar-baoutoul-701b5738a/)">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%40+EMSI;AI+%26+Data+Science+Enthusiast;Full-Stack+Developer;Building+AI+%26+Cloud+Projects" 
            alt="Typing SVG" />
     </a>
