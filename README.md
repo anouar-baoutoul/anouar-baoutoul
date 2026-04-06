@@ -6,6 +6,9 @@
 <h1>👋 Welcome to my GitHub Profile!</h1>
 
 <!-- Typing Animation CORRIGÉE -->
+<a href="https://github.com/anouar-baoutoul">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Anouar+Baoutoul!;🎓+Étudiant+Ingénieur+%40+EMSI+Marrakech;🤖+AI+%26+Data+Science+Enthusiast;💻+Full-Stack+Developer;☁️+Learning+Cloud+%26+DevOps;🚀+Open+to+PFA+2026+Opportunities!" alt="Typing SVG" />
+</a>
 
 
 <br/>
