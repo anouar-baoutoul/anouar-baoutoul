@@ -5,9 +5,9 @@
 
 <h1>👋 Welcome to my GitHub Profile!</h1>
 
-<!-- Typing Animation -->
+<!-- Typing Animation CORRIGÉE -->
 <a href="https://github.com/anouar-baoutoul">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Anouar+Baoutoul!;🎓+3IIR+Student+%40+EMSI+Marrakech;🤖+AI+%26+Data+Science+Enthusiast;💻+Full-Stack+Developer;☁️+Learning+Cloud+%26+DevOps;🚀+Open+to+PFA+2026+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Anouar+Baoutoul!;🎓+Étudiant+Ingénieur+%40+EMSI+Marrakech;🤖+AI+%26+Data+Science+Enthusiast;💻+Full-Stack+Developer;☁️+Learning+Cloud+%26+DevOps;🚀+Open+to+PFA+2026+Opportunities!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -149,14 +149,6 @@ class AnouarBaoutoul:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anouar-baoutoul&theme=algolia&no-frame=false&no-bg=false&margin-w=6&column=6" width="100%" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🎯 Goals 2025–2026
 
 <div align="center">
@@ -206,7 +198,6 @@ class AnouarBaoutoul:
 
 ---
 
-couroige sa et dans le message bleus enleve 3IIR emsi dit juste que je suis etudiant ingenieure at emsi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
