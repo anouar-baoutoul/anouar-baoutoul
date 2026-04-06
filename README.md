@@ -1,5 +1,5 @@
 <div align="center">
-
+ <img src="./assets/banner.gif" width="50%" alt="Anouar Baoutoul"/>
   <h1>👋 Welcome to my GitHub Profile!</h1>
 
   <p>
@@ -128,3 +128,4 @@ Computer Engineering Student | AI & Data Science Enthusiast | EMSI Marrakech
 ![](https://github-readme-stats.vercel.app/api?username=anouar-baoutoul&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anouar-baoutoul&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anouar-baoutoul&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+"# anouar-baoutoul" 
