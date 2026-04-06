@@ -43,7 +43,7 @@
 class AnouarBaoutoul:
     name        = "Anouar Baoutoul"
     school      = "EMSI Marrakech 🎓"
-    degree      = "Ingénierie Informatique & Réseaux — 3IIR"
+    degree      = "Ingénierie Informatique & Réseaux "
     bac         = "Sciences Physiques · Jossour Al Maarifa · 2023"
     emsi_since  = "2023"
     location    = "Marrakech, Morocco 🇲🇦"
