@@ -22,7 +22,7 @@
   <!-- GMAIL CLIQUABLE - OUVRE VOTRE GMAIL DIRECTEMENT -->
   <a href="<a href="mailto:anoir.baoutoul@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?..."/>
-</a>">
+</a>>
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
