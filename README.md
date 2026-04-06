@@ -22,8 +22,6 @@
   <a href="mailto:anoir.baoutoul@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/PFA%202026-Open%20to%20AI%20Internship-brightgreen?style=for-the-badge" />
 </p>
 
 <!-- Snake animation -->
