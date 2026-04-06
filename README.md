@@ -19,7 +19,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:anoir.baoutoul@gmail.com?subject=Salut%20Anouar!">
+  <!-- GMAIL CLIQUABLE - OUVRE VOTRE GMAIL DIRECTEMENT -->
+  <a href="mailto:anoir.baoutoul@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -162,7 +163,7 @@ class AnouarBaoutoul:
   <img src="https://img.shields.io/badge/GitHub-anouar--baoutoul-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:anoir.baoutoul@gmail.com?subject=Salut%20Anouar!">
+<a href="mailto:anoir.baoutoul@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-anoir.baoutoul%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
