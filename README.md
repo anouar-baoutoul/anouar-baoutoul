@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Anouar+Baoutoul!;🎓+Étudiant+Ingénieur+%40+EMSI+Marrakech;🤖+AI+%26+Data+Science+Enthusiast;💻+Full-Stack+Developer;☁️+Learning+Cloud+%26+DevOps;🚀+Open+to+PFA+2026+Opportunities!" alt="Typing SVG" />
 </a>
 
-
 <br/>
 
 <p>
@@ -25,12 +24,7 @@
   </a>
 </p>
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anouar-baoutoul/anouar-baoutoul/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anouar-baoutoul/anouar-baoutoul/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anouar-baoutoul/anouar-baoutoul/output/github-snake.svg" width="100%"/>
-</picture>
+<!-- SNAKE ANIMATION SUPPRIMÉE -->
 
 </div>
 
