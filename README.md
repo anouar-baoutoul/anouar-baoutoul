@@ -130,25 +130,6 @@ class AnouarBaoutoul:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anouar-baoutoul&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anouar-baoutoul&theme=blue_navy&hide_border=false&layout=compact" width="49%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=anouar-baoutoul&theme=blue_navy&hide_border=false&card_width=600" width="65%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anouar-baoutoul&theme=react-dark&bg_color=0d1117&color=2E9EF7&line=2E9EF7&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
 ## 🎯 Goals 2025–2026
 
 <div align="center">
