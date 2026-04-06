@@ -136,8 +136,8 @@ class AnouarBaoutoul:
 
 | 🎯 Goal | 📅 Timeline | ✅ Status |
 |--------|------------|---------|
-| Master Python for Data Science | S6 2025 | 🔄 In Progress |
-| Build 3+ AI/ML portfolio projects | 2025 | 🔄 In Progress |
+| Master Python for Data Science | 2027 | 🔄 In Progress |
+| Build 3+ AI/ML portfolio projects | 2026 | 🔄 In Progress |
 | AWS Certified Developer Associate | 2025 | 📚 Studying |
 | Learn Terraform & Kubernetes | 2025 | 📚 Studying |
 | Secure AI/Data Science PFA | 2026 | 🎯 Target |
@@ -152,7 +152,7 @@ class AnouarBaoutoul:
 
 | 🎓 Diplôme | 🏫 Établissement | 📅 Année |
 |-----------|----------------|---------|
-| Ingénierie Informatique & Réseaux (3IIR) | EMSI Marrakech | 2023 – 2026 |
+| Ingénierie Informatique & Réseaux  | EMSI Marrakech | 2023 – 2028 |
 | Baccalauréat Sciences Physiques | Jossour Al Maarifa · Marrakech | 2023 |
 
 </div>
